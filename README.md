@@ -7,7 +7,7 @@ This tool includes software developed by the QuickFIX project
 
 # Installation / Requirements
 
-The script requires miltiple libraries. It is advised that it be installed within a python virtual environment:
+The script requires multiple libraries. It is advised that it be installed within a python virtual environment:
 ```
 $ sudo apt install python3-venv
 $ python3 -m venv fixit_env            
